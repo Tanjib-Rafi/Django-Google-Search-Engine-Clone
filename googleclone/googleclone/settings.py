@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-$t9b)y2ohb%@hoajyrxrrxllzqa$hn!i+c_-rz$^!ps(+zi2a5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','googlesearchengineclone.com']
+ALLOWED_HOSTS = ['127.0.0.1','django-google-search-engine.herokuapp.com']
 
 
 # Application definition
